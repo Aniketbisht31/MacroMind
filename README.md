@@ -65,7 +65,8 @@ The system includes:
       │ Daily Log + Backtesting     │
       └─────────────────────────────┘
 ```
-![alt text](image.png)
+<img width="1024" height="424" alt="image" src="https://github.com/user-attachments/assets/71bc2023-d5c8-4a29-9468-497fec880551" />
+
 
 ---
 
